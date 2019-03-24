@@ -1,4 +1,4 @@
-return 0;
+//return 0;
 const Queue = require('../src/queue');
 const MaxHeap = require('../src/max-heap');
 
