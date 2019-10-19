@@ -1,4 +1,4 @@
-//return 0;
+
 const Node = require('../src/node');
 const MaxHeap = require('../src/max-heap');
 
